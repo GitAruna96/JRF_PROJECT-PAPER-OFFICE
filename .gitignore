@@ -1,0 +1,41 @@
+# Large data files and models
+*.pth
+*.pkl
+*.h5
+*.pt
+*.bin
+*.zip
+*.tar.gz
+
+# Dataset folders - DON'T upload the actual Office-31 images!
+/data/
+/images/
+/datasets/
+/office-31/  # Exclude the actual dataset
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+/logs/
+/outputs/
+/results/  # If they contain large files
