@@ -1,0 +1,2 @@
+Best_Accuracy,Best_Epoch,Final_Test_Accuracy,Baseline_Accuracy,Improvement,Final_CLS_Loss,Final_SAC_Loss,Final_Test_Loss,Total_Training_Minutes,Avg_Epoch_Time,Min_Confidence,Max_Confidence
+67.79874213836477,26,62.0125786163522,78.06,-10.26125786163523,0.0548481986237069,0.0529000709454218,1.6271161615848542,18.38090145190557,36.76180290381114,0.8,0.95

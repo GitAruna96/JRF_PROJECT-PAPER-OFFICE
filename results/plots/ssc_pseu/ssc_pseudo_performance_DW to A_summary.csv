@@ -1,0 +1,2 @@
+Best_Accuracy,Best_Epoch,Worst_Accuracy,Worst_Epoch,Performance_Drop_Percent,Performance_Drop_Relative,Avg_SSC_Time,Avg_Pseudo_Time,Time_Increase_Percent,Total_Training_Minutes
+64.71207865168539,13,9.620786516853933,1,55.091292134831455,85.13293543136191,42.9880398273468,57.5330611175961,33.835041906229215,46.73213249047597
